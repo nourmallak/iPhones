@@ -1,0 +1,108 @@
+*
+{
+    margin: 0;
+}
+.products
+{
+    margin-left: 220px;
+    margin-top: 50px;
+    border: solid 5px rgb(115, 115, 216);
+    width: 75%;
+    padding-top: 30px;
+}
+ p
+{
+    margin-top: 20px;
+    margin-bottom: 8px;
+    color: gray;
+    width: 225px;
+    text-align: left;
+    margin-left:8px ;
+    font-family: "Barlow Condensed", sans-serif;
+}
+.FirstProducts 
+{
+    background-color: rgb(252, 251, 251);
+    display: inline-block;
+    margin-left: 10px;
+    border: solid 1px grey;
+    margin-top: 30px;
+}
+.SecondProducts 
+{
+    background-color: rgb(252, 251, 251);
+    display: inline-block;
+    margin-left: 10px;
+    border: solid 1px grey;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.products svg
+{
+    width: 13px;
+    
+}
+.salecost
+{
+    color: green;
+    font-weight: 800;
+    text-align: left;
+    margin-left:8px ;
+}
+.price
+{
+    color: red;
+    font-size: small;
+    font-weight: 800;
+    
+}
+.button-one
+{
+    display: inline-block;
+    background-color: #5588ef;
+    color: aliceblue;
+    padding: 7px 40px;
+    margin-left: 8px;
+    margin-bottom:10px ;
+    margin-top: 8px;
+    font-size: small;
+    border: 0;
+    font-family: "Jost", sans-serif;
+}
+.button-two
+{
+    display: inline-block;
+    background-color: white;
+    color: #72a1fd;
+    padding: 5px 10px;
+    margin-left: 5px;
+    margin-bottom:10px ;
+    margin-right: 10px;
+    border:solid rgb(53, 104, 233) ;
+}
+
+
+img
+{
+    margin-top: 9px;
+    margin-left:9px ;
+}
+h2{
+    font-size:large;
+    text-align: left;
+    margin-left:8px ;
+    margin-top: 5px;
+    font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h1{
+    font-family: "Barlow Condensed", sans-serif;
+    font-weight: 700;
+    margin-left: 30px;
+    
+}
+.sections{
+    margin-left: 30px;
+    
+}
